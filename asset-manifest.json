@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Capital-City-LLC/static/css/main.966ce38d.css",
+    "main.js": "/Capital-City-LLC/static/js/main.ace317e6.js",
+    "static/media/arinj.jpg": "/Capital-City-LLC/static/media/arinj.d730988ad9d9416245a5.jpg",
+    "static/media/monte.jpg": "/Capital-City-LLC/static/media/monte.e2b177e6f7bce17b65c9.jpg",
+    "static/media/northern.jpg": "/Capital-City-LLC/static/media/northern.eaae4a46d184f8c9f77f.jpg",
+    "static/media/nazarbekyan.jpg": "/Capital-City-LLC/static/media/nazarbekyan.5d0ccf386c24f7da1c84.jpg",
+    "static/media/2.jpg": "/Capital-City-LLC/static/media/2.a9844d4507d369275d1d.jpg",
+    "static/media/norq2.jpg": "/Capital-City-LLC/static/media/norq2.d5413c8a2cca6015b98d.jpg",
+    "static/media/1.jpg": "/Capital-City-LLC/static/media/1.ce97371245c91b99b1fa.jpg",
+    "static/media/abovyan1.jpg": "/Capital-City-LLC/static/media/abovyan1.ec5cfa66cd7880dc1309.jpg",
+    "static/media/abovyan4.jpg": "/Capital-City-LLC/static/media/abovyan4.9d1e2d4975583ba2d11f.jpg",
+    "static/media/abovyan7.jpg": "/Capital-City-LLC/static/media/abovyan7.438856cc8ba4eaa773c2.jpg",
+    "static/media/abovyan2.jpg": "/Capital-City-LLC/static/media/abovyan2.bbf92f92e701ecc13ce7.jpg",
+    "static/media/abovyan3.jpg": "/Capital-City-LLC/static/media/abovyan3.859d6053ae3fe1eb0cb6.jpg",
+    "static/media/abovyan6.jpg": "/Capital-City-LLC/static/media/abovyan6.7b65c69f3cd58133802e.jpg",
+    "static/media/abovyan5.jpg": "/Capital-City-LLC/static/media/abovyan5.ebbf44e5be70cb450c42.jpg",
+    "static/media/abovyan0.jpg": "/Capital-City-LLC/static/media/abovyan0.0eff5f7a6265eca4008e.jpg",
+    "static/media/top.jpg": "/Capital-City-LLC/static/media/top.6c2805c5f3dde525d6ac.jpg",
+    "static/media/arinjpark.jpg": "/Capital-City-LLC/static/media/arinjpark.bf03c96f41120ca80842.jpg",
+    "static/media/logo2.png": "/Capital-City-LLC/static/media/logo2.e5ffd1e140efd97a00a2.png",
+    "static/media/Logo.png": "/Capital-City-LLC/static/media/Logo.2162b2120efad38e2c6b.png",
+    "index.html": "/Capital-City-LLC/index.html",
+    "main.966ce38d.css.map": "/Capital-City-LLC/static/css/main.966ce38d.css.map",
+    "main.ace317e6.js.map": "/Capital-City-LLC/static/js/main.ace317e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.966ce38d.css",
+    "static/js/main.ace317e6.js"
+  ]
+}
