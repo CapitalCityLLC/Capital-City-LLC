@@ -1,0 +1,68 @@
+.main-container{
+    height: 450px;
+    width: 700px;
+
+}
+
+.window{
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    box-shadow: 0px 8px 39px -12px #390307 ;
+}
+
+.all-pages-container{
+    height: 100%;
+    display: flex;
+
+    transition:  translate;
+    transition-property: transform;
+    transition-timing-function: ease-in-out ;
+ 
+}
+
+.fa-circle{
+    color: black;
+}
+
+.arrowClick{
+      margin-left: 20px;
+      cursor: pointer;
+      border: 1px solid black;
+      width: 36px;
+      height: 32px;
+}
+
+.arrow{
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 30px;
+}
+
+
+
+
+
+@media screen and (max-width: 430px){
+
+    .window{
+        height: 375px;
+        width: 400px;
+    }
+}
+
+@media screen and (max-width: 390px){
+
+    .window{
+        height: 350px;
+        width: 365px;
+    }
+}
+@media screen and (max-width: 360px){
+
+    .window{
+        width: 336px;
+    }
+}

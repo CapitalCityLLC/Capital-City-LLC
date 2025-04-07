@@ -1,0 +1,151 @@
+.about{
+    width: 100%;
+    height: auto;
+    font-family: "Noto Serif Armenian", serif;
+}
+
+
+.time{
+    margin-top: 50px;
+}
+.time h2{
+    font-size: 32px;
+    line-height: 45px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #390307;
+}
+
+.time h1{
+    font-size: 32px;
+    line-height: 45px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #390307;
+}
+
+.text{
+    font-size: 25px;
+    padding-top: 12px;
+}
+
+.nav a{
+  text-decoration: none; 
+  color: #390307;
+  font-weight: 500;
+  
+}
+
+.nav{
+    font-size: 22px;
+    padding-top: 10px;
+   
+}
+
+
+@media screen and (max-width: 912px){
+    .text {
+        font-size: 22px;
+       
+    }
+}
+
+
+@media screen and (max-width: 768px){
+    .text {
+        font-size: 22px;
+       
+    }
+}
+
+
+@media screen and (max-width: 430px){
+    .faqs h2 {
+        width: 411px;
+        font-size: 23px;
+
+    }
+
+    .question {
+        width: 378px;
+        font-size: 15px;
+    
+    }
+
+    .answer {
+        width: 397px;
+        height: 212px;
+        font-size: 15px;
+    
+    }
+
+    .text {
+        font-size: 18px;
+    }
+
+    .time h2 {
+        font-size: 27px;
+        padding-top: 20px;
+    }
+
+}
+
+@media screen and (max-width: 390px){
+    .faqs h2 {
+        width: 385px;
+        font-size: 22px;
+    }
+
+    .answer {
+        width: 364px;
+        font-size: 14px;
+    }
+
+}
+
+
+
+@media screen and (max-width: 375px){
+    .faqs h2 {
+        width: 371px;
+        font-size: 21px;
+    }
+
+    .question {
+        width: 344px;
+        font-size: 15px;
+    }
+
+    .answer {
+        width: 357px;
+        font-size: 13px;
+    }
+
+    .text {
+        font-size: 16px;
+    }
+}
+
+
+@media screen and (max-width: 360px){
+    .question {
+        width: 333px;
+        font-size: 13px;
+    }
+    .faqs h2 {
+        width: 347px;
+        font-size: 19px;
+    }
+
+    .answer {
+        width: 340px;
+    }
+
+    .faqs {
+        height: 117px;
+        margin-top: 20px;
+
+    }
+}

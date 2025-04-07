@@ -1,0 +1,220 @@
+.ContactPage {
+    width: 100%;
+    height: auto;
+    background-color: #fcf6f6;
+}
+
+.contact{
+    height: 100px;
+    margin-top: 50px;
+    text-align: center;
+}
+
+
+
+.contact h2{
+   font-family: "Noto Serif Armenian", serif;
+   font-size: 46px;
+   font-weight: bold;
+   line-height: 30px;
+   color: #390307;
+}
+
+
+.contact p {
+    font-family: "Noto Serif Armenian", serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 28px;
+    padding-top: 20px;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color:#867779;
+
+ }
+
+
+ .contactInfo{
+    height: 361px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+
+}
+
+.contactBox{
+    height: 152px;
+    text-align: center; 
+    display: flex; 
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.icon{
+    width: 83px;
+    height: 81px;
+    border: 1px solid #390307;
+    border-radius: 50px;
+   
+}
+
+.contactBox .fa-solid{
+    font-size: 40px;
+    color: #390307;
+    margin-top: 10px;
+    padding-top: 8px;
+}
+
+.contactBox p{
+    font-family: "Noto Serif Armenian", serif;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 30px;
+    color: #390307;
+}
+
+.contactBox  a {
+    display: flex;
+    text-decoration: none; 
+    color: #390307;
+}
+
+.tel2{
+    font-family: "Noto Serif Armenian", serif;
+    font-size: 26px;
+    font-weight: bold;
+    line-height: 30px;
+    color: #390307;
+}
+
+.faqs {
+    height: 165px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+
+
+.faqs h2 {
+    height: 44px;
+    width: 646px;
+    font-size: 32px;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-align: center;
+    color:  #390307;
+    font-family: "Noto Serif Armenian", serif;
+  
+}
+
+
+
+.question{
+    width: 620px;
+    height: 53px;
+    font-size: 1.2rem;
+    font-family: 'Open Sans',Helevetica,Arial,sans-serif;
+    color: #390307;
+    background-color: transparent;
+    border: 1px solid #390307;
+    margin-bottom: 17px;
+    margin-top: 17px;
+    cursor: pointer;
+    padding: 10px 20px 6px;
+    text-align: left;
+    outline: none;
+    transition: 0.4s;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.question:hover {
+    color: #09C;
+}
+
+.question:active {
+    color: #09C;
+}
+
+.questionBox{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+  
+}
+
+.answer{
+    width: 620px;
+    height: 126px;
+    max-height: 0;
+    overflow: hidden;
+    transition: all 0.5s cubic-bezier(0,1,0,1);
+    color: #867779;
+    line-height: 1.8;
+    font-family: 'Open Sans',Arial,sans-serif;
+    font-size: 17px;
+    align-items: center;
+    display: flex;
+    justify-content: center; 
+    margin: 0 auto;
+    
+}
+.answer p {
+    padding: 10px 20px 6px;
+}
+
+.answer.show{
+    height: auto;
+    max-height: 126px;
+    transition: all 0.5s cubic-bezier(0,1,0,1);
+}
+
+
+.dataBox{
+    margin-bottom: 90px;
+}
+
+
+@media screen and (max-width: 912px){
+    .contactBox p {
+        font-size: 18px;
+      
+    }
+    .tel2 {
+        font-size: 22px;  
+    }
+
+    
+}
+@media screen and (max-width: 853px){
+    .contactInfo {
+        height: auto;
+        display: flex; 
+        flex-direction: column;
+        margin-top: 25px;
+      
+    }
+    .contactBox {
+        height: 152px;
+        padding-bottom: 25px;
+    }
+
+}
+
+
+@media screen and (max-width: 360px){
+    .contact p {
+        font-size: 15px;
+    }
+    .contact h2 {
+        font-size: 40px;
+    }
+}
