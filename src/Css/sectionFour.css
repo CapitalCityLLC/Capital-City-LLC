@@ -249,7 +249,7 @@
     .zeytunBox img {
         width: 329px;
         height: 409px;
-        top: 449px;
+        top: 455px;
         right: 21px;
         box-shadow: 5px 5px 5px -3px #aa9597;
     }
@@ -265,9 +265,12 @@
         width: 336px;
         font-size: 16px;
     }
+
+
+
 }
 
-@media screen and (max-width: 390px){
+@media screen and (max-width: 375px){
 .zeytunBox img {
     right: 14px 
 }

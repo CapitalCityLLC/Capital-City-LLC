@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Capital-City-LLC/static/css/main.966ce38d.css",
+    "main.css": "/Capital-City-LLC/static/css/main.b3a0e959.css",
     "main.js": "/Capital-City-LLC/static/js/main.ace317e6.js",
     "static/media/arinj.jpg": "/Capital-City-LLC/static/media/arinj.d730988ad9d9416245a5.jpg",
     "static/media/monte.jpg": "/Capital-City-LLC/static/media/monte.e2b177e6f7bce17b65c9.jpg",
@@ -22,11 +22,11 @@
     "static/media/logo2.png": "/Capital-City-LLC/static/media/logo2.e5ffd1e140efd97a00a2.png",
     "static/media/Logo.png": "/Capital-City-LLC/static/media/Logo.2162b2120efad38e2c6b.png",
     "index.html": "/Capital-City-LLC/index.html",
-    "main.966ce38d.css.map": "/Capital-City-LLC/static/css/main.966ce38d.css.map",
+    "main.b3a0e959.css.map": "/Capital-City-LLC/static/css/main.b3a0e959.css.map",
     "main.ace317e6.js.map": "/Capital-City-LLC/static/js/main.ace317e6.js.map"
   },
   "entrypoints": [
-    "static/css/main.966ce38d.css",
+    "static/css/main.b3a0e959.css",
     "static/js/main.ace317e6.js"
   ]
 }
