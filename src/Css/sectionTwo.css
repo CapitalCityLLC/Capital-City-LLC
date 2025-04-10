@@ -402,7 +402,7 @@
     width: 365px;
     height: 442px;
     top: 421px;
-    right: -7px;
+    right: 15px;
 }
 .infoBox {
     width: 386px;
@@ -422,16 +422,29 @@
     padding-left: 0;
 }
 
+}
+@media screen and (max-width: 414px){
 
 
-
-
-
+   .imgAvan img {
+    width: 385px;
+   }
 
 }
 
 
+@media screen and (max-width: 412px){
+    .norNorqBox img {
+        right: 17px;
+        top: 440px;
+   
+    }
 
+   .imgAvan img {
+    width: 385px;
+   }
+
+}
 
 
 
@@ -477,9 +490,9 @@
     }
 
     .norNorqBox img {
-        width: 329px;
-        height: 409px;
-        top: 455px;
+        width: 328px;
+        height: 394px;
+        top: 480px;
         right: 21px;
         box-shadow:   5px 5px 5px -3px  #aa9597 ;
         
@@ -513,4 +526,19 @@
     }
     
 
+}
+
+@media screen and (max-width: 375px){
+
+    .norNorqBox img {
+        width: 328px;
+        height: 394px;
+        top: 480px;
+        right: 12px;
+    }
+
+    .norNorqInfo {
+        width: 350px;
+        height: 885px;
+    }
 }

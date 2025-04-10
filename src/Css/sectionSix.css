@@ -107,11 +107,11 @@
 
     .slideBox img{
         height: 375px ;
-        width: 400px;
+        width: 393px;
     }
 
     .main-container{
-        width: 400px;
+        width: 393px;
     }
     .slideBox {
         width: 100%;
@@ -136,6 +136,19 @@
         margin-top: -1px;
         font-size: 18px;
     }
+}
+
+
+@media screen and (max-width: 412px){
+
+    .slideBox img{
+        width: 385px;
+    }
+
+    .infoarmeniaGarden {
+        font-size: 19px;
+    }
+
 }
 
 @media screen and (max-width: 390px){
@@ -170,6 +183,16 @@
     .infoarmeniaGarden {
         margin-top: -10px;
        
+    }
+}
+@media screen and (max-width: 375px){
+    .slideBox img{
+        height:350px ;
+        width: 356px;
+    }
+
+    .main-container{
+        width: 356px;
     }
 }
 

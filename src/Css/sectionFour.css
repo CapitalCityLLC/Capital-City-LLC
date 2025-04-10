@@ -206,6 +206,37 @@
 }
 
 
+@media screen and (max-width: 414px){
+    .discoveryInfo {
+        width: 382px;
+    }
+    .zeytunBox img {
+        right: 7px;
+        top: 420px;
+        width: 366px;
+        height: 478px;
+    }
+
+
+}
+@media screen and (max-width: 412px){
+    .discoveryInfo {
+        width: 381px;
+    }
+    .zeytunBox img {
+        right: 5px;
+        top: 420px;
+        width: 370px;
+        height: 482px;
+    }
+
+    .disSpan {
+        width: 360px;
+        font-size: 14px;
+    }
+
+}
+
 
 
 @media screen and (max-width: 390px){
@@ -218,7 +249,7 @@
     .zeytunBox img {
         width: 329px;
         height: 409px;
-        top: 436px;
+        top: 449px;
         right: 21px;
         box-shadow: 5px 5px 5px -3px #aa9597;
     }
@@ -234,4 +265,15 @@
         width: 336px;
         font-size: 16px;
     }
+}
+
+@media screen and (max-width: 390px){
+.zeytunBox img {
+    right: 14px 
+}
+
+.discoveryInfo {
+    width: 354px;
+    height: 874px;
+}
 }

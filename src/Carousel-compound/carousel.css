@@ -49,15 +49,29 @@
 
     .window{
         height: 375px;
-        width: 400px;
+        width: 393px;
+    }
+}
+
+@media screen and (max-width: 412px){
+    .window {
+        height: 375px;
+        width: 385px;
     }
 }
 
 @media screen and (max-width: 390px){
 
     .window{
-        height: 350px;
         width: 365px;
+    }
+}
+
+@media screen and (max-width: 375px){
+
+    .window{
+        width: 356px;
+        height: 350px;
     }
 }
 @media screen and (max-width: 360px){
